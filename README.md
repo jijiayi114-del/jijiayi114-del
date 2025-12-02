@@ -1,4 +1,5 @@
 ## Hi there 👋
+Not for fame, not for low points.
  
 
 #   🌟 关于我

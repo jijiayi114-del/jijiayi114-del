@@ -34,7 +34,7 @@ Not for fame, not for low points.
 - **前端**：HTML, CSS, JavaScript, React, Vue, TypeScript
 - **后端**：Node.js, Express, MongoDB
 - **工具**：Git, GitHub  
-![Uploading 3.jpg…]()
+ 
 
  
 
